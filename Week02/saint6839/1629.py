@@ -14,5 +14,3 @@ def dac(a,b):
         return temp * temp * a % C
 
 print(dac(A,B))
-
-# print((A%C) * (B*C) % C)
